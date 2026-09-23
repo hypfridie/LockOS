@@ -1,6 +1,6 @@
 # LockOS Privacy Policy
 
-**Effective Date:** September 24, 2026
+**Effective Date:** September 23, 2026
 
 LockOS ("LockOS," "we," "us," or "our") is an offline Android application designed to protect selected applications on your device using your device's existing security mechanisms.
 
@@ -150,16 +150,13 @@ The updated policy will be published with a new effective date. We encourage you
 
 ---
 
-## 12. Contact Us
+## 12. Contact me
 
-If you have questions, concerns, or requests regarding this Privacy Policy or LockOS, contact us at:
+If you have questions, concerns, or requests regarding this Privacy Policy or LockOS, contact me at:
 
 | | |
 |---|---|
-| **Developer** | `[YOUR DEVELOPER NAME]` |
-| **Email** | `[YOUR SUPPORT EMAIL]` |
-| **Website** | `[YOUR WEBSITE, IF APPLICABLE]` |
+| **Developer** | Ayush |
+| **Email** | ayusharyan.online@gmail.com |
 
 ---
-
-> **Important:** Before publishing this policy on Google Play, replace the bracketed developer/contact information above and verify that every listed data practice and permission exactly matches the LockOS version you submit.
